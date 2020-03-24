@@ -1,0 +1,16 @@
+id: jphp-httpserver-ext
+tags: [network, web]
+icon: 'fa:server'
+
+author: Dmitriy Zayceff
+license: Apache-2.0
+
+#doc: http://...
+#site: http://...
+#donate: http://...
+
+description:
+  ru: >
+    Легковесная библиотека для создания HTTP серверов с поддержкой роутинга и Web Sockets.
+  en: >
+    Lightweight library for creating HTTP servers with support for routing and Web Sockets.

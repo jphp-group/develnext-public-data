@@ -1,0 +1,17 @@
+id: jphp-mail-ext
+bundle: 'dn-mail-bundle@*'
+tags: [network]
+icon: '525:ico-mail-send2'
+
+author: Dmitriy Zayceff
+license: Apache-2.0
+
+#doc: http://...
+#site: http://...
+#donate: http://...
+
+description:
+  ru: >
+    Библиотека для отправки писем с помощью протокола SMTP.
+  en: >
+    Library for sending mail using the SMTP protocol.

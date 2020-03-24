@@ -1,0 +1,16 @@
+id: jphp-gui-jfoenix-ext
+bundle: 'dn-jfoenix-bundle@*'
+tags: [ui]
+
+author: Dmitriy Zayceff
+license: Apache-2.0
+
+#doc: http://...
+#site: http://...
+#donate: http://...
+
+description:
+  ru: >
+    Библиотека, которая добавляет новые UI компоненты в стиле Google Material Design.
+  en: >
+    A library that adds new Google Material Design-style UI components.

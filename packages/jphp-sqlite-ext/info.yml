@@ -1,0 +1,16 @@
+id: jphp-sqlite-ext
+bundle: 'dn-sqlite-bundle@*'
+tags: [db]
+
+author: Dmitriy Zayceff
+license: Apache-2.0
+
+#doc: http://...
+#site: http://...
+#donate: http://...
+
+description:
+  ru: >
+    Библиотека для работы с SQLite базами данных.
+  en: >
+    Library for working with SQLite databases.

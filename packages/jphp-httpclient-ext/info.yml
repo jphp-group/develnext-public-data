@@ -1,0 +1,17 @@
+id: jphp-httpclient-ext
+bundle: 'dn-httpclient-bundle@*'
+tags: [network, web]
+icon: 'fa:server'
+
+author: Dmitriy Zayceff
+license: Apache-2.0
+
+#doc: http://...
+#site: http://...
+#donate: http://...
+
+description:
+  ru: >
+    Клиент для выполнения http запросов к сайтам и сервисам с API.
+  en: >
+    Client to perform http requests to sites and services with API.

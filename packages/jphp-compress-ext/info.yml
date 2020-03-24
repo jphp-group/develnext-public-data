@@ -1,0 +1,17 @@
+id: jphp-compress-ext
+status: beta
+tags: [compression]
+icon: '525:ico-archive'
+
+author: Dmitriy Zayceff
+license: Apache-2.0
+
+#doc: http://...
+#site: http://...
+#donate: http://...
+
+description:
+  ru: >
+    Библиотека для сжатия данных, поддерживаемы алгоритмы сжатия - zip, tar, gz, bz2 и lz4.
+  en: >
+    Library for data compression, supported compression algorithms - zip, tar, gz, bz2 and lz4.

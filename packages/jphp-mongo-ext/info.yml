@@ -1,0 +1,15 @@
+id: jphp-mongo-ext
+tags: [db]
+
+author: Dmitriy Zayceff
+license: Apache-2.0
+
+#doc: http://...
+#site: http://...
+#donate: http://...
+
+description:
+  ru: >
+    Библиотека для работы с NoSQL базой данных Mongo DB 3+.
+  en: >
+    Library for working with NoSQL Mongo DB 3+ database.

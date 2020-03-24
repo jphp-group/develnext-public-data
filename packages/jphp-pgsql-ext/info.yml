@@ -1,0 +1,16 @@
+id: jphp-pgsql-ext
+bundle: 'dn-pgsql-bundle@*'
+tags: [db]
+
+author: Dmitriy Zayceff
+license: Apache-2.0
+
+#doc: http://...
+#site: http://...
+#donate: http://...
+
+description:
+  ru: >
+    Библиотека для работы с PostgreSQL 9+ базами данных.
+  en: >
+    Library for working with PostgreSQL 9+ databases.

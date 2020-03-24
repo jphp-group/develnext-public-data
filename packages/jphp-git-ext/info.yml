@@ -1,0 +1,15 @@
+id: jphp-git-ext
+tags: [dev]
+
+author: Dmitriy Zayceff
+license: Apache-2.0
+
+#doc: http://...
+#site: http://...
+#donate: http://...
+
+description:
+  ru: >
+    Библиотека для работы с git репозиториями.
+  en: >
+    Library for working with git repositories.

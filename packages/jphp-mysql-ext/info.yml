@@ -1,0 +1,16 @@
+id: jphp-mysql-ext
+bundle: 'dn-mysql-bundle@*'
+tags: [db]
+
+author: Dmitriy Zayceff
+license: Apache-2.0
+
+#doc: http://...
+#site: http://...
+#donate: http://...
+
+description:
+  ru: >
+    Библиотека для работы с MySQL 5+ базами данных.
+  en: >
+    Library for working with MySQL 5+ databases.

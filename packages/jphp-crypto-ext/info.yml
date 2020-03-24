@@ -1,0 +1,17 @@
+id: jphp-crypto-ext
+status: beta
+tags: [crypto]
+icon: '525:ico-archive'
+
+author: Dmitriy Zayceff
+license: Apache-2.0
+
+#doc: http://...
+#site: http://...
+#donate: http://...
+
+description:
+  ru: >
+    Библиотека для шифрования данных (AES и другие).
+  en: >
+    Library for data encryption (AES and others).

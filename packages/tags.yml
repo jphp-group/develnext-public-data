@@ -1,0 +1,27 @@
+
+web:
+  name: {ru: Веб, en: Web}
+
+network:
+  name: {ru: Сеть, en: Network}
+
+db:
+  name: {ru: Базы Данных, en: Databases}
+
+ui:
+  name: {ru: UI (Интерфейс), en: UI}
+
+parsing:
+  name: {ru: Парсинг, en: Parsing}
+
+dev:
+  name: {ru: Разработка, en: Development}
+
+os:
+  name: {ru: ОС, en: OS}
+
+compression:
+  name: {ru: Сжатие данных, en: Compression}
+
+develnext:
+  name: {ru: DevelNext, en: DevelNext}

@@ -1,0 +1,16 @@
+id: jphp-gui-systemtray-ext
+bundle: 'dn-systemtray-bundle@*'
+tags: [os, ui]
+
+author: Dmitriy Zayceff
+license: Apache-2.0
+
+#doc: http://...
+#site: http://...
+#donate: http://...
+
+description:
+  ru: >
+    Библиотека для создания иконок в трей меню.
+  en: >
+    Library for creating icons in the tray menu.
