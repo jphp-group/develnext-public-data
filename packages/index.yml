@@ -10,7 +10,8 @@ tags:
 
 packages:
 - id: jphp-jsoup-ext
-  bundle: dn-jsoup-bundle
+  bundle: dn-jsoup-bundle # dep for ide bundle
+  # dep: jphp-jsoup-ext or any url for package, `id` is used by default for dep.
   tags: [web, network]
   description:
     ru: >
