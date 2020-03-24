@@ -1,1 +1,13 @@
-
+id: jphp-jsoup-ext
+bundle: 'dn-jsoup-bundle@*' # dep for ide bundle
+# dep: 'jphp-jsoup-ext@*' or any url for package, `id@*` is used by default for dep.
+tags: [web, network]
+author: Dmitriy Zayceff & https://jsoup.org
+lisence: Apache 2.0
+description:
+  ru: >
+    Библиотека для работы с реальным HTML. Он предоставляет очень удобный API для извлечения URL-адресов, 
+    а также для извлечения и обработки данных, используя лучшие методы HTML5 DOM и селекторы CSS.
+  en: >
+    A library for working with real-world HTML. It provides a very convenient API for fetching URLs and 
+    extracting and manipulating data, using the best of HTML5 DOM methods and CSS selectors.
